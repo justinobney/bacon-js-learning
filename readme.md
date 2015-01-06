@@ -6,4 +6,4 @@ some code. It tends to help.
 
 ## Lessons
 
-* [lesson1.js](Lesson 1) - FizzBuzz (i know...)
+* [Lesson 1](lesson1.js) - FizzBuzz (i know...)
