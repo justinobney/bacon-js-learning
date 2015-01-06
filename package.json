@@ -1,0 +1,20 @@
+{
+  "name": "bacon-js-learning",
+  "version": "0.0.0",
+  "description": "I want to learn FRP...",
+  "main": "lesson1.js",
+  "dependencies": {
+    "baconjs": "~0.7.41"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BaconJS",
+    "Justin",
+    "Obney"
+  ],
+  "author": "Justin Obney",
+  "license": "MIT"
+}
